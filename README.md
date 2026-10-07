@@ -315,7 +315,6 @@ The `src/` folder contains the two MATLAB scripts used for the final submission:
 - `run_denoising_v7.m` — portable inference script that loads the supplied v7 model and processes an input WAV file.
 - `test.m` — original evaluation/test implementation supplied with the final project results.
 
-The repository does not include a verified v7 training script. The supplied `ssproject.m` was an earlier experimental/unverified training draft and has intentionally been excluded from this final submission repository to avoid confusion.
 
 ## 11. Limitations
 
