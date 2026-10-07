@@ -1,0 +1,15 @@
+FINAL v7 GITHUB SUBMISSION MANIFEST
+
+Author: Rajeev Gaddam
+Project: Deep Learning Based Background Noise Suppression for Speech
+Version: v7
+
+Primary final artifacts:
+- model/speechDenoisingBiLSTM_v7.mat
+- src/run_denoising_v7.m
+- src/test.m
+- results/objective_results.csv
+- results/final_results_summary.txt
+- results/figures/*
+
+Note: The earlier ssproject.m training draft is intentionally excluded because it was marked unverified and is not presented as the source of the final v7 model.
